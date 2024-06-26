@@ -1,5 +1,7 @@
 langchain_openai 
 langchain_core
+langchain
+openai
 python-dotenv
 streamlit
 langchain_community
