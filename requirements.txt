@@ -24,3 +24,4 @@ sentence_transformers
 PyPDF2
 langchain-objectbox
 huggingface_hub
+python-dotenv
