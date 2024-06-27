@@ -17,9 +17,10 @@ groq
 cassio
 beautifulsoup4
 langchain-groq
-wikipedia
+wikipedia                                   
 arxiv
 langchainhub
 sentence_transformers
 PyPDF2
 langchain-objectbox
+huggingface_hub
